@@ -10,7 +10,7 @@ Grid-based pattern triggering for multiple instruments (Kick, Snare, Bass, etc.)
 - AI-assisted using Cursor, DeepSeek, and Kimi
 
 ## Tech Stack
-- HTML/CSS/JS
-- AI-assisted code by Cursor & ChatGPT
+- Python and its libraries 
+- AI-assisted code by Cursor
 
-> Built with love, curiosity, and pure grind by a 15-year-old 🧠⚡
+> Built with love, curiosity, and pure grind 
