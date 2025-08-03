@@ -311,3 +311,4 @@ while True:
     scanline_shader()
     pygame.display.flip()
     clock.tick(60)
+       # lo_2
